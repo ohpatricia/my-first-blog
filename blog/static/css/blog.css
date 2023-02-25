@@ -1,0 +1,12 @@
+body{
+  padding: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+.page-header, .content{
+  width: 80%;
+  margin: 0 auto;
+}
+h1 a, h2 a {
+  color: #C25100;
+  font-family: 'Merriweather', serif;
+}
